@@ -5,9 +5,8 @@ import ListItems from './ListItems';
   return(
     // code here
     <>
-      <ListItems valuex={listx} />
-    </>
-    
+      <ListItems valuex={listx}/>
+      </>
   )
 }
 
